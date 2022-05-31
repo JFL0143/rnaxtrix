@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rnaxtrix. (I entered 'maxtrix' when changing username, but it was being used by another user :()
+- 👋 Hi, I’m Maxtrix. (I entered 'maxtrix' when changing username, but it was being used by another user :()
 - 👀 I’m interested in Video games.
 - 🌱 I’m currently learning Java and Front-end.
 
